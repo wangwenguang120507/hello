@@ -8,6 +8,10 @@ public class CarlistArray {
 	  * 所有車コード
 	  */
 	private String ownercd;
+	/**
+	  * 所有車コード
+	  */
+	private String ownercd1;
 	
 	/**
 	  * 登録№-一連指定番号
